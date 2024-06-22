@@ -13,3 +13,8 @@ Build the coloring buttons
 
 ## Iteration 4 (In JS file)
 Make the Canvas App Functional 
+
+#### Please Note
+A testing utility is added to the project, on performing the iterations correctly the specifications will be passed.
+
+Happy Coding:)
